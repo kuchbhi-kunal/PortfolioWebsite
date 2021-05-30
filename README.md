@@ -3,6 +3,6 @@
 
 
 ### Check this out 
-<a href="https://google.com"><img src="Logo2.png">
+<a href="https://kuchbhi-kunal.github.io/PortfolioWebsite/"><img src="Logo2.png">
 ___
 ![Landing Page](Landing.jpg)
