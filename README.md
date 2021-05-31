@@ -1,5 +1,5 @@
 # Portfolio Website
-## Made a portfolio website for myself.
+
 
 
 ### Check this out!
